@@ -31,6 +31,6 @@
 * Linux
 
 ## Desafios
-[Desáfio Classificador de nível de herói](https://github.com/dnxpollo/logicaDIO/tree/master)
+[Desáfio Classificador de nível de herói](https://github.com/dnxpollo/logicaDIO/tree/master/Desafios)
 
 
