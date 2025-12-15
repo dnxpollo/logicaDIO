@@ -39,6 +39,8 @@
    * [Desáfio Classificador de nível de herói](https://github.com/dnxpollo/logicaDIO/tree/master/DesafioClassificadorNivelHeroi)
 * [Desáfio Calculadora de Partidas Ranqueadas](https://github.com/dnxpollo/logicaDIO/tree/master/DesafioCalculadoraPartidasRanqueadas)
 
+* [Desáfio Classes de um Jogo](https://github.com/dnxpollo/logicaDIO/tree/master/DesafioClassesJogo)
+
 --------------------------------------------------------------------------
 # How to replicate in your environment
 
@@ -93,3 +95,4 @@
 
    * [Hero Level Classifier Challenge](https://github.com/dnxpollo/logicaDIO/tree/master/DesafioClassificadorNivelHeroi)
 * [Ranked Matches Calculator Challenge](https://github.com/dnxpollo/logicaDIO/tree/master/DesafioCalculadoraPartidasRanqueadas)
+* [Game Class Challenge](https://github.com/dnxpollo/logicaDIO/tree/master/DesafioClassesJogo)
