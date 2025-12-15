@@ -1,28 +1,19 @@
-# Desafio proposto pela DIO
+# Calculadora de partidas ranqueadas
 
-## Desafio Classificador de nível de Herói
-   O que deve ser utilizado:
-   * variáveis
-   * operadores
-   * laços de repetição
-   * estruturas de decisões
 
-   ### Objetivo
-   Crie uma variável para armazenar o nome e a quantidade
-   de experiência XP de um herói, depois utilize uma estrutura
-  de decisão para apresentar alguma das mensagens abaixo:
-
-  * se XP for menor que 1000 - Ferro
-  * se XP for entre 1001 e 2000 - Bronze
-  * se XP for entre 2001 e 5000 - Prata
-  * se XP for entre 5001 e 7000 - Ouro
-  * se XP for entre 7001 e 8000 - Platina
-  * se XP for entre 8001 e 9000 - Ascendente
-  * se XP for entre 9001 e 10000 - Imortal
-  * se XP for maior ou igual a 10001 - Radiante
-   
-   ao final deve exibir a mensagem
-   o herói está no nível ...
+ * Criar uma função que recebe como parametro, a quantidade de vitórias e derrotas de um jogador.
+ * Depois disso retorne o resultado para uma variável, o saldo de ranqueadas deve ser feito através do calculo
+    * (vitórias - derrotas)
+### Rank 
+ * Se vitórias for menor ou igual do que 10 = Ferro 
+ * Se vitórias for entre 11 e 20 = Bronze  
+ * Se vitórias for entre 21 e 50 = Prata
+ * Se vitórias for entre 51 e 80 = Ouro
+ * Se vitórias for entre 81 e 90 = Diamante
+ * Se vitórias for entre 91 e 100 = Lendário 
+ * Se vitórias for maior ou igual a 101 = Imortal
+ ### Saída
+ * "O Heroi tem de saldo de {saldoVitorias} está no nível{nivel}"
 ### Ferramentas usadas
 * VSCode
 * MarkdownlinePreview
@@ -31,6 +22,5 @@
 * Linux
 
 ## Desafios
-[Desáfio Classificador de nível de herói](https://github.com/dnxpollo/logicaDIO/tree/master/Desafios)
-
+[Desáfio Calculadora de Partidas Ranqueadas](https://github.com/dnxpollo/logicaDIO/tree/master/DesafioCalculadoraPartidasRanqueadas)
 
